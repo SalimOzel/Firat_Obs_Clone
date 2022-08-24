@@ -1,16 +1,14 @@
-# demo_obs
+# Hello Everyone
 
-A new Flutter project.
+I tried to clone the firat university student information system using flutter, I hope I was successful.
 
-## Getting Started
+## Project Images
+<p align= "middle"/>
+<img src= "https://user-images.githubusercontent.com/65537086/186428376-38c98cff-7902-467a-bd7f-e2ef444f917f.png" width="200" height= "400"/>
 
-This project is a starting point for a Flutter application.
+<img src= "https://user-images.githubusercontent.com/65537086/186428486-7e4e98f8-76c3-4a1a-907e-5f067699dbce.png" width="200" height= "400"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src= "https://user-images.githubusercontent.com/65537086/186428515-9d1bf206-1729-4d3f-a93a-9f9df372aa5c.png" width="200" height= "400"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src= "https://user-images.githubusercontent.com/65537086/186428562-a796fed7-c938-425e-845e-610c7e1e634b.png" width="200" height= "400"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
